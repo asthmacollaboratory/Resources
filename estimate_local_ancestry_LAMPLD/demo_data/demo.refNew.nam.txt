@@ -1,0 +1,5 @@
+nam1	nam1
+nam2	nam2
+nam3	nam3
+nam4	nam4
+nam5	nam5
